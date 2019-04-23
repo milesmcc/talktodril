@@ -1,2 +1,3 @@
-# talktodril
-Talk to Dril! (For The Internet In Print)
+# Talk to Dril
+
+It's easy: in a POSIX terminal, type `telnet dril.rmrm.io 8192`
